@@ -8,12 +8,12 @@
   "plugins": [
     {
       "name": "namespace-guard",
-      "source": { "source": "git-subdir", "url": "paultendo/namespace-guard", "path": "plugins/namespace-guard" },
+      "source": { "source": "git-subdir", "url": "https://github.com/paultendo/namespace-guard.git", "path": "plugins/namespace-guard" },
       "description": "Stop confusables (lookalike letters, or homoglyphs): names that impersonate others at sign-up, and text that costs an AI several times more to read."
     },
     {
       "name": "d0ma1n",
-      "source": { "source": "git-subdir", "url": "paultendo/d0ma1n", "path": "plugins/d0ma1n" },
+      "source": { "source": "git-subdir", "url": "https://github.com/paultendo/d0ma1n.git", "path": "plugins/d0ma1n" },
       "description": "Find lookalike (IDN homograph) domains of a real domain, see which are registered, live or able to receive email, and read a suspicious domain back to the one it imitates."
     }
   ]
