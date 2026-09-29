@@ -9,7 +9,7 @@ Skills for Claude Code, Codex and other agents that read `SKILL.md` files, about
 
 ## Install
 
-In Claude Code:
+namespace-guard is in Anthropic's plugin directory for Claude Code, Cowork and the Claude apps, and d0ma1n is awaiting approval there. You can also install both from this marketplace in Claude Code:
 
 ```bash
 claude plugin marketplace add paultendo/skills
